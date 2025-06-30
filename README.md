@@ -58,8 +58,7 @@ The tool selects a top match, justifies it based on value and user reviews, and 
 
 ## 📜 License
 
-This project is shared for demonstration purposes only.  
-Please do not reuse or deploy commercially without permission.
+This project is shared for demonstration purposes only. Please do not reuse or deploy commercially without permission.
 
 ---
 
