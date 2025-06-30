@@ -18,7 +18,9 @@ This project uses product metadata and reviews from the [Amazon Reviews 2023 Dat
 
 > **Query:** _“a hydrating lip balm under $15”_
 
-![JustifyMyBuy Demo Screenshot](example-output.png)
+<p align="center">
+  <img src="example-output.png" alt="JustifyMyBuy Demo Screenshot" width="800"/>
+</p>
 
 The tool selects a top match, justifies it based on value and user reviews, and even explains why others didn’t fit — all in friendly, readable language.
 
