@@ -9,6 +9,7 @@
 ## 🚀 Live Demo
 
 🔗 Try it yourself: [JustifyMyBuy: Your AI Product Explainer](https://huggingface.co/spaces/kmraastha/Justifymybuy)
+
 (*Only a filtered subset of the *Beauty & Personal Care* category was used due to file size constraints.*)
 
 ---
