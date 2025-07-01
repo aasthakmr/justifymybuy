@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-🔗 Try it on [Hugging Face Spaces](https://huggingface.co/spaces/kmraastha/Justifymybuy)
+🔗 Try it on [JustifyMyBuy: Your AI Product Explainer](https://huggingface.co/spaces/kmraastha/Justifymybuy)
 
 ---
 
