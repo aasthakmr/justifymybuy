@@ -36,15 +36,12 @@ The tool selects a top match, justifies it based on value and user reviews, and 
 
 ---
 
-🗂️ Files
-
-| File / Folder                     | Description                                                       |
-|----------------------------------|-------------------------------------------------------------------|
-| `app.py`                         | Main script: loads data, builds embeddings, runs Gradio app       |
-| `requirements.txt`              | Python dependencies                                                |
-| `meta_filtered.jsonl`           | Filtered subset of Amazon metadata (generated locally)             |
-| `reviews_filtered.jsonl`        | Filtered subset of review data (generated locally)                 |
-| `vector_store/`                 | FAISS index and embeddings (auto-generated at runtime; not stored) |
+| File / Folder                         | Description                                                                   |
+| ------------------------------------- | ----------------------------------------------------------------------------- |
+| `justifymybuy.ipynb`                  | Main notebook: processes data, builds embeddings, and launches the Gradio app |
+| `meta_Beauty_and_Personal_Care.jsonl` | Filtered metadata from the Beauty and Personal Care Amazon dataset            |
+| `Beauty_and_Personal_Care.jsonl`      | Matching reviews from the same dataset, filtered to relevant ASINs            |
+| `vector_store/`                       | FAISS index and product embeddings (generated at runtime; not stored)         |
 
 ---
 
