@@ -1,6 +1,6 @@
 # 🛒 JustifyMyBuy: AI-Powered Product Explainer
 
-> A semantic search + LLM explainer for Amazon product recommendations, built as a portfolio GenAI project.
+> A semantic search + LLM explainer for Amazon product recommendations.
 
 **JustifyMyBuy** is an AI-powered system that doesn’t just recommend products — it explains *why* they’re a good fit.
 
