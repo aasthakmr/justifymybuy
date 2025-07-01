@@ -4,6 +4,14 @@
 
 **JustifyMyBuy** is an AI-powered system that doesn’t just recommend products — it explains *why* they’re a good fit.
 
+---
+
+## 🚀 Live Demo
+
+🔗 Try it on [Hugging Face Spaces](https://huggingface.co/spaces/kmraastha/Justifymybuy)
+
+---
+
 It uses Retrieval-Augmented Generation (RAG) to retrieve relevant Amazon products and generate natural-language justifications based on their metadata and reviews. The app runs on Python, uses FAISS for vector search, Meta LLaMA-3 via Together API for reasoning, and Gradio for a polished user interface.
 
 ---
